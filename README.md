@@ -1,3 +1,5 @@
+# Hi, there! 👋
+## 🚀 About me
 - 👋 Hi, I’m @AlexJoaquimPereira
 - 👀 Exploring my interests with Python and JavaScript!
 - 🌱 I’m currently learning Computer Engineering at Goa College of Engineering
