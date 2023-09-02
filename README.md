@@ -21,11 +21,21 @@
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!---
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjoaquimpereira&show_icons=true&locale=en&layout=compact" alt="alexjoaquimpereira" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexjoaquimpereira&show_icons=true&locale=en" alt="alexjoaquimpereira" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjoaquimpereira&" alt="alexjoaquimpereira" /></p>
+<!---<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjoaquimpereira&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&theme=date_night" alt="alexjoaquimpereira" width="364" height="200" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexJoaquimPereira&theme=date_night" alt="alexjoaquimpereira" /></p>
+<!---<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
+
+<!---- Bottom shows original, top shows the alternate
+
+<p><img media="(prefers-color-scheme: light)" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJoaquimPereira&theme=nord_light" alt="alexjoaquimpereira" /></p>
+<p><img media="(prefers-color-scheme: light)" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexJoaquimPereira&theme=nord_light" alt="alexjoaquimpereira" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjoaquimpereira&show_icons=true&locale=en" alt="alexjoaquimpereira" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=alexjoaquimpereira&show_icons=true&locale=en" alt="alexjoaquimpereira" /></p>
+<!--- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjoaquimpereira&show_icons=true&locale=en" alt="alexjoaquimpereira" /></p> --->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
