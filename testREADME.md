@@ -1,15 +1,18 @@
 <h1 align="center">Hi folks👋, I'm Alex Joaquim Pereira!</h1>
-<h3 align="center">About me</h3>
+<!--- <h3 align="center">About me</h3> --->
 
-- 🌱 I’m currently learning **Python & JavaScript**
-
-- 📫 How to reach me **alexpereira1781@gmail.com**
+- 🙋‍♂️ A motivated, curious sophomore seeking to upskill myself and provide solutions to problems using programming
+- 🌱 I’m currently learning Computer Engineering at Goa College of Engineering
+- 👀 Exploring my interests with **Python & JavaScript!**
+- 💞️ I’m looking to collaborate on a few app/web based projects I have planned out
+- 📫 Find out more about me through my [**Linktree!**](https://linktr.ee/alexjoaquimpereira)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alex-joaquim-pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-joaquim-pereira" height="30" width="40" /></a>
-<a href="https://instagram.com/hanv_alexpereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanv_alexpereira" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/alexpereira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alexpereira" height="30" width="40" /></a>
+<a href="mailto:alexpereira1781@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-c14438?&style=fsocial&logo=gmail&logoColor=white" alt="alexpereira1781@gmail.com" height="30"/></a>
+<a href="https://linkedin.com/in/alex-joaquim-pereira" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue.svg?&style=fsocial&logo=linkedin&logoColor=white" alt="alex-joaquim-pereira" height="30" /></a>
+<a href="https://instagram.com/hanv_alexpereira" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=fsocial&logo=Instagram&logoColor=white" alt="hanv_alexpereira" height="30" /></a>
+<a href="https://www.codechef.com/users/alexpereira" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="alexpereira" height="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
