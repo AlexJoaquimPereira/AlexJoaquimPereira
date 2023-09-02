@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Computer Engineering at Goa College of Engineering
 - 👀 Exploring my interests with **Python & JavaScript!** 
 - 💞️ I’m looking to collaborate on a few app/web based projects I have planned out
-- 💆‍♂️ I enjoy participating in trivia & quizzes, UI/UX, competitive coding, writing articles, and singing & playing classics
+- 💆‍♂️ I enjoy participating in quizzes & trivia, UI/UX, competitive coding, writing articles, and singing & playing classics
 - 📫 Find out more about me through my [**Linktree!**](https://linktr.ee/alexjoaquimpereira)
 
 ---
@@ -23,9 +23,10 @@
 
 ---
 
+<h3 align="left">📊 GitHub stats:</h3>
 <!---<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjoaquimpereira&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&theme=date_night" alt="alexjoaquimpereira" width="364" height="200" /></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexJoaquimPereira&theme=date_night" alt="alexjoaquimpereira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjoaquimpereira&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&theme=nord" alt="alexjoaquimpereira" width="364" height="200" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>
 <!---<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
 
 <!---- Bottom shows original, top shows the alternate
