@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on a few app/web based projects I have planned out
 - 📫 Find out more about me through my [**Linktree!**](https://linktr.ee/alexjoaquimpereira)
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:alexpereira1781@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-c14438?&style=fsocial&logo=gmail&logoColor=white" alt="alexpereira1781@gmail.com" height="30"/></a>
@@ -18,8 +20,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjoaquimpereira&show_icons=true&locale=en&layout=compact" alt="alexjoaquimpereira" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexjoaquimpereira&show_icons=true&locale=en" alt="alexjoaquimpereira" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjoaquimpereira&" alt="alexjoaquimpereira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexjoaquimpereira&" alt="alexjoaquimpereira" /></p>
+<!-- 
+
+---
+
+-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
