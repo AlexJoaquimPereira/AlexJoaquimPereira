@@ -34,7 +34,7 @@
 
 <h3 align="left">📊 GitHub stats:</h3>
 <!---<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjoaquimpereira&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&cache_seconds=86400&theme=nord" alt="alexjoaquimpereira" width="364" height="200" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexjoaquimpereira&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&theme=nord" alt="alexjoaquimpereira" width="364" height="200" /></p>
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>
 <!---<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
 
