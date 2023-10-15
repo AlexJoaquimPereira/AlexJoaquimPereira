@@ -34,9 +34,14 @@
 ---
 
 <h3 align="left">📊 GitHub stats:</h3>
+
+| <img align="center" src="https://github-readme-stats-vercel-seven.vercel.app/api?username=AlexJoaquimPereira&theme=buefy&show_icons=true&rank_icon=github&hide_rank=false&hide_border=true" alt="Alex's GitHub stats" /> | <img align="center" src="http://github-readme-stats-vercel-seven.vercel.app/api/top-langs?username=AlexJoaquimPereira&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=buefy&hide_border=true&exclude_repo=github-readme-stats-vercel" /> |
+| ------------- | ------------- |
+
+<!--- THE BELOW 5 LINKS WERE USED BEFORE THE PRESENT ONE --->
 <!---<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
-<p><img align="left" src="http://github-readme-stats-vercel-seven.vercel.app/api/top-langs?username=alexjoaquimpereira&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=nord&title_color=8fbcbb&exclude_repo=github-readme-stats-vercel" alt="languages"/></p>
-<p><img align="center" src="https://github-readme-stats-vercel-seven.vercel.app/api?username=AlexJoaquimPereira&theme=nord&title_color=8fbcbb&show_icons=true&rank_icon=github&hide_rank=false" alt="alexjoaquimpereira" alt="github"/></p>
+<!---<p><img align="left" src="http://github-readme-stats-vercel-seven.vercel.app/api/top-langs?username=alexjoaquimpereira&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&theme=nord&title_color=8fbcbb&exclude_repo=github-readme-stats-vercel" alt="languages"/></p>--->
+<!---<p><img align="center" src="https://github-readme-stats-vercel-seven.vercel.app/api?username=AlexJoaquimPereira&theme=nord&title_color=8fbcbb&show_icons=true&rank_icon=github&hide_rank=false" alt="alexjoaquimpereira" alt="github"/></p>--->
 <!---<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
 <!---<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
 
