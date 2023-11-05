@@ -33,7 +33,9 @@
 
 ---
 
-<h3 align="left">📊 GitHub stats:</h3>
+<h3 align="left">📊 GitHub stats:
+ <!---<img src="https://visitor-badge.laobi.icu/badge?page_id=AlexJoaquimPereira.AlexJoauimPereira" alt="visitor badge"/>--->
+</h3>
 
 | <img align="center" src="https://github-readme-stats-vercel-seven.vercel.app/api?username=AlexJoaquimPereira&theme=transparent&show_icons=true&rank_icon=github&hide_rank=false&hide_border=true&bg_color=00000000" alt="Alex's GitHub stats" /> | <img align="center" src="http://github-readme-stats-vercel-seven.vercel.app/api/top-langs?username=AlexJoaquimPereira&locale=en&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&bg_color=00000000&exclude_repo=github-readme-stats-vercel" /> |
 | ------------- | ------------- |
