@@ -5,7 +5,7 @@
 
 - 🙋‍♂️ A motivated, curious sophomore seeking to upskill myself and provide solutions to problems through programming
 - 🌱 I’m currently learning Computer Engineering at Goa College of Engineering
-- 👀 Exploring my interests with **Python & JavaScript!** 
+- 👀 Exploring my interests with **Python & JavaScript!** and building my cybersecurity skills🕵️
 - 💞️ I’m looking to collaborate on a few app/web based projects I have planned out
 - 💆‍♂️ I enjoy participating in quizzes & trivia, UI/UX, competitive coding, writing articles, and singing & playing classics
 - 📫 Find out more about me through my [**Linktree!**](https://linktr.ee/alexjoaquimpereira)
