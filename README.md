@@ -14,7 +14,7 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="mailto:alexpereira1781@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-c14438?&style=fsocial&logo=gmail&logoColor=white" alt="alexpereira1781@gmail.com" height="30"/></a>
+<!-- <a href="mailto:alexpereira1781@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-c14438?&style=fsocial&logo=gmail&logoColor=white" alt="alexpereira1781@gmail.com" height="30"/></a> -->
 <a href="https://linkedin.com/in/alex-joaquim-pereira" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue.svg?&style=fsocial&logo=linkedin&logoColor=white" alt="alex-joaquim-pereira" height="30" /></a>
 <a href="https://instagram.com/hanv_alexpereira" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=fsocial&logo=Instagram&logoColor=white" alt="hanv_alexpereira" height="30" /></a>
 <a href="https://exercism.org/profiles/AlexJoaquimPereira" target="blank"><img align="center" src="https://github.com/exercism/website-icons/blob/main/exercism/icon-and-word.svg" alt="AlexJoaquimPereira" height="30"/></a>
