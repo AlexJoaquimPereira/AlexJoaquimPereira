@@ -3,7 +3,7 @@
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexjoaquimpereira&label=Profile%20views&color=0e75b6&style=flat" alt="alexjoaquimpereira" /> </p> --->
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexjoaquimpereira" alt="alexjoaquimpereira" /></a> </p> --->
 
-- 🙋‍♂️ A motivated, curious sophomore seeking to upskill myself and provide solutions to problems through programming
+- 🙋‍♂️ A motivated, curious senior seeking to upskill myself and provide solutions to problems through programming
 - 🌱 I’m currently learning Computer Engineering at Goa College of Engineering
 - 👀 Exploring my interests with **Python & JavaScript!** and building my cybersecurity skills🕵️
 - 💞️ I’m looking to collaborate on a few app/web based projects I have planned out
