@@ -3,9 +3,9 @@
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexjoaquimpereira&label=Profile%20views&color=0e75b6&style=flat" alt="alexjoaquimpereira" /> </p> --->
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexjoaquimpereira" alt="alexjoaquimpereira" /></a> </p> --->
 
-- 🙋‍♂️ A motivated, curious senior seeking to upskill myself and provide solutions to problems through programming
+- 🙋‍♂️ A motivated, curious engineering senior seeking to upskill myself and provide solutions to problems through programming
 - 🌱 I’m currently learning Computer Engineering at Goa College of Engineering
-- 👀 Exploring my interests with **Python & JavaScript!** and building my cybersecurity skills🕵️
+- 👀 Exploring my interests with **Python & JavaScript!**
 - 💞️ I’m looking to collaborate on a few app/web based projects I have planned out
 - 💆‍♂️ I enjoy participating in quizzes & trivia, UI/UX, competitive coding, writing articles, and singing & playing classics
 - 📫 Find out more about me through my [**Linktree!**](https://linktr.ee/alexjoaquimpereira)
@@ -22,17 +22,19 @@
 </p>
 
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" alt="java" width="40" height="40"/> </a>
-<a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://drafts.csswg.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://ecma-international.org/technical-committees/tc39/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react/react-native" width="40" height="40"/> </a>
-</p>
+<table>
+<tr>
+<td><a href="https://www.iso.org/standard/74528.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a></td>
+<td><a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a></td>
+<td><a href="https://www.java.com/en/"><img src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" width="40"/></a></td>
+<!-- <td><a href="https://www.kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kotlin_logo_%282025%29.svg" alt="Kotlin logo (2025).svg" width="174"/></a></td> --->
+<td><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td>
+<td><a href="https://html.spec.whatwg.org/multipage/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a></td>
+<td><a href="https://drafts.csswg.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a></td>
+<td><a href="https://ecma-international.org/technical-committees/tc39/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td>
+<td><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a></td>
+</tr>
+</table>
 
 ---
 
