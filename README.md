@@ -3,12 +3,12 @@
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexjoaquimpereira&label=Profile%20views&color=0e75b6&style=flat" alt="alexjoaquimpereira" /> </p> --->
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexjoaquimpereira" alt="alexjoaquimpereira" /></a> </p> --->
 
-- 🙋‍♂️ A motivated, curious engineering senior seeking to upskill myself and provide solutions to problems through programming
-- 🌱 I’m currently learning Computer Engineering at Goa College of Engineering
-- 👀 Exploring my interests with **Python & JavaScript!**
-- 💞️ I’m looking to collaborate on a few app/web based projects I have planned out
-- 💆‍♂️ I enjoy participating in quizzes & trivia, UI/UX, competitive coding, writing articles, and singing & playing classics
-- 📫 Find out more about me through my [**Linktree!**](https://linktr.ee/alexjoaquimpereira)
+- 🙋‍♂️ A motivated, curious engineer seeking to leverage my skills in software engineering to contribute to innovative solutions.
+- 🌱 I’ve currently graduated Computer Engineering at Goa College of Engineering.
+- 👀 Exploring my interests with **Python, JavaScript, and Artificial Intelligence!**
+- 💞️ I’m looking to collaborate on a few app/web based projects I have planned out.
+- 💆‍♂️ I enjoy participating in quizzes & trivia, UI/UX, competitive coding, writing articles, and singing & playing classics.
+<!--- - 📫 Find out more about me through my [**Linktree!**](https://linktr.ee/alexjoaquimpereira) --->
 
 ---
 
@@ -16,7 +16,7 @@
 <p align="left">
 <!-- <a href="mailto:alexpereira1781@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-c14438?&style=fsocial&logo=gmail&logoColor=white" alt="alexpereira1781@gmail.com" height="30"/></a> -->
 <a href="https://linkedin.com/in/alex-joaquim-pereira" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue.svg?&style=fsocial&logo=linkedin&logoColor=white" alt="alex-joaquim-pereira" height="30" /></a>
-<a href="https://instagram.com/hanv_alexpereira" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=fsocial&logo=Instagram&logoColor=white" alt="hanv_alexpereira" height="30" /></a>
+<!--- <a href="https://instagram.com/hanv_alexpereira" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=fsocial&logo=Instagram&logoColor=white" alt="hanv_alexpereira" height="30" /></a> --->
 <a href="https://exercism.org/profiles/AlexJoaquimPereira" target="blank"><img align="center" src="https://github.com/exercism/website-icons/blob/main/exercism/icon-and-word.svg" alt="AlexJoaquimPereira" height="30"/></a>
 <a href="https://www.codechef.com/users/alexpereira" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="alexpereira" height="40" /></a>
 </p>
