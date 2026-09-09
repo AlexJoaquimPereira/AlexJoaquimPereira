@@ -5,8 +5,8 @@
 
 - 🙋‍♂️ A motivated, curious engineer seeking to leverage my skills in software engineering to contribute to innovative solutions.
 - 🌱 I’ve currently graduated Computer Engineering at Goa College of Engineering.
-- 👀 Exploring my interests with **Python, JavaScript, and Artificial Intelligence!**
-- 💞️ I’m looking to collaborate on a few app/web based projects I have planned out.
+- 👀 Exploring my interests with **Python, JavaScript, and Artificial Intelligence and Agentic AI!**
+- 🤝 I’m looking to collaborate on a few open-source projects I have planned out.
 - 💆‍♂️ I enjoy participating in quizzes & trivia, UI/UX, competitive coding, writing articles, and singing & playing classics.
 <!--- - 📫 Find out more about me through my [**Linktree!**](https://linktr.ee/alexjoaquimpereira) --->
 
@@ -38,12 +38,15 @@
 
 ---
 
-<h3 align="left">📊 GitHub stats:
- <!---<img src="https://visitor-badge.laobi.icu/badge?page_id=AlexJoaquimPereira.AlexJoauimPereira" alt="visitor badge"/>--->
-</h3>
-
-| <img align="center" src="https://github-readme-stats-vercel-seven.vercel.app/api?username=AlexJoaquimPereira&theme=transparent&show_icons=true&rank_icon=github&hide_rank=false&hide_border=true&bg_color=00000000" alt="Alex's GitHub stats" /> | <img align="center" src="http://github-readme-stats-vercel-seven.vercel.app/api/top-langs?username=AlexJoaquimPereira&locale=en&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&bg_color=00000000&exclude_repo=github-readme-stats-vercel" /> |
+| <img align="center" src="https://github-readme-stats-vercel-seven.vercel.app/api?username=AlexJoaquimPereira&show_icons=true&rank_icon=github&hide_rank=false&hide_border=true&bg_color=00000000" alt="Alex's GitHub stats" /> | <img align="center" src="https://github-readme-stats-vercel-seven.vercel.app/api/top-langs?username=AlexJoaquimPereira&locale=en&layout=compact&langs_count=12&card_width=467&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&exclude_repo=github-readme-stats-vercel" /> |
 | ------------- | ------------- |
+
+---
+
+<div align="center">
+ <a href="https://alexjoaquimpereira.github.io/"><img src="https://readme-typing-svg.demolab.com?font=monospace&pause=1000&color=24131F&background=FBF7F2&center=true&vCenter=true&width=600&lines=God's+In+His+Heaven.+All's+Right+With+The+World." alt="Typing SVG" /></a>
+</div>
+
 
 <!--- THE BELOW 5 LINKS WERE USED BEFORE THE PRESENT ONE --->
 <!---<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJoaquimPereira&theme=nord_dark" alt="alexjoaquimpereira" /></p>--->
